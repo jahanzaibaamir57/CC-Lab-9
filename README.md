@@ -1,8 +1,8 @@
 # Task App
 This is a React + Vite task app that uses Supabase for auth and data storage.
-# Name: Abdul Wahab
-# Enrollment: 01-131232-007
-# Section: BSE6A
+# Name: Jahanzaib Aamir
+# Enrollment: 01-131232-038
+# Section: BSE-6B
 
 # Deployment Link
 https://cc-labb-09.vercel.app/
